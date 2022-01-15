@@ -14,5 +14,5 @@ diasseg = dias * 24 * 3600
 horasseg = horas * 3600
 minutosseg = minutos * 60
 totalseg = diasseg + horasseg + minutosseg +  segundos
-print(f'Total segundos: {totalseg}')
+print(f'Total segundos.....: {totalseg}')
 
